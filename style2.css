@@ -1,0 +1,28 @@
+.detalhe{
+    margin-top: 10px;
+    text-align: center;
+    
+}
+
+.foto{
+    width: 300px;
+    right: 300px;
+    display: flex;
+    margin: auto;
+}
+
+.text{
+    font-family:monospace;
+}
+
+.title{
+    font-size: large;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.preco{
+    font-weight: bold;
+    font-size: larger;
+}
